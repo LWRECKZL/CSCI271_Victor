@@ -1,5 +1,5 @@
-# CSCI271_Victor
-# My First Reposotory
-This is my very first repo on Gethub!
-i will put some c++ Project
-**
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** Victor Garcia
+**Date Created:** Jan 20, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
